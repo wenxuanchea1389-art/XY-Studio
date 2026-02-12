@@ -12,7 +12,7 @@ export default async function Home() {
 
   return (
     <div style={{ padding: '40px', fontFamily: 'sans-serif', maxWidth: '600px', margin: '0 auto' }}>
-      <h1 style={{ color: '#333', marginBottom: '20px' }}>📅 俱乐部活动公告板</h1>
+      <h1 style={{ color: '#333', marginBottom: '20px' }}>✨ XY Studio 活动中心 ✨</h1>
 
       {/* --- 新增部分：添加活动的表单 --- */}
       <div style={{ marginBottom: '30px', padding: '20px', background: '#f0f4f8', borderRadius: '12px' }}>
